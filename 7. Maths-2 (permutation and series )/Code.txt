@@ -1,0 +1,4 @@
+All code including fast fibonacii
+catalan number etc ....
+
+are included in challanges section (Maths)

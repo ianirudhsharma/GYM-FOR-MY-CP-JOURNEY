@@ -1,0 +1,9 @@
+if success and failure
+
+p ---> probablity of success
+
+Expectation =1/p
+
+to get N success --> N/P min trial
+
+if N moves done the times success is expected is NP 

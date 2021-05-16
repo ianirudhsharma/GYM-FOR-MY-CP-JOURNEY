@@ -1,0 +1,15 @@
+Read About Aplication of Catlan numbers
+(2*nCn)/(n+1)
+
+oeis -> online encyclopedia of integer sequence
+
+
+fibonacci properties
+	1.its sum can be represented as F(n+2)-F(1)
+        2.any number can be represented as sum of fib seq member
+          (no 2 neighbour in sequence will be part of it)
+
+	3. last digit,2digit .. repeat itself after an interval
+
+
+mod of -ve number
